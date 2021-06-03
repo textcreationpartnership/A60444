@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sound things asserted first in the Kings own words, secondly from late experience, thirdly from Scipture truth, fourthly according to reason and equity : and certain things opened ... by way of inquiry thereupon ... being intended for the good of the King ... and all persons under him ... / by ... Humphery Smith.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60444</idno><idno type="EEBO-CITATION">7869696</idno>
+  <idno type="VID">40196</idno>
+  <idno type="EEBO-PROQUEST">2264207749</idno>
+  
+            <idno type="STC">Wing S4074</idno>
+            <idno type="STC">ESTC R23649</idno>
+            <idno type="OCLC">07869696</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40196)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1213:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sound things asserted first in the Kings own words, secondly from late experience, thirdly from Scipture truth, fourthly according to reason and equity : and certain things opened ... by way of inquiry thereupon ... being intended for the good of the King ... and all persons under him ... / by ... Humphery Smith.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.M.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+               <term type="topical_term">Church and state.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:40196:1"/>
+            <head>Sound things asserted,
+<list>
+                  <item>First, In the Kings own words.</item>
+                  <item>Secondly, From late experience.</item>
+                  <item>Thirdly, From Scripture Truth.</item>
+                  <item>Fourthly, According to reason and equity.</item>
+               </list> And certain things opened (or propounded) by way of inquiry thereupon.</head>
+            <head>Offered in meekness and good will unto the consideration of all the Kings, Lords, Counsellors, and all other his chief Officers under him, in all places of Justice and trust, both civil, Millitary, and Ecclesiastical.</head>
+            <head>Being intended for the good of the King and themselves, and all per<g ref="char:EOLhyphen"/>sons under him, and for the preserving of peace amongst men.</head>
+            <epigraph>
+               <q>
+                  <p>If a Ruler hearken to lyes, all his servants are wicked,</p>
+                  <bibl>
+                     <hi>Prov. 29.12.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <p>Be wise now therefore O ye Kings, be instructed ye Iudges of the Earth,</p>
+                  <bibl>
+                     <hi>Psalm 2.10.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <p>Iudge righteously, and plead the cause of the poor and needy,</p>
+                  <bibl>
+                     <hi>Pr. 31.9.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <p>The King that faithfully judgeth the poor, his Throne shall be esta<g ref="char:EOLhyphen"/>blished for ever,</p>
+                  <bibl>
+                     <hi>Pr. 29.14.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <byline>By a servant of God, in Bonds for the truth of his Son in a streight Prison at <hi>Winchester,</hi> called <hi>Humphery Smith.</hi>
+            </byline>
+            <div n="1" type="assertion">
+               <head>The first Assertion.</head>
+               <p>FOr as much as you are set in authority under the King, and so are to observe, and to be Ministers of his Laws, for the punishment of evil, and not to go beyond his will, and Proclamations; and so to do that which is just and reasonable towards all his Subjects, thereby to preserve them in peace towards him and one with another.</p>
+               <p n="2">
+                  <pb n="2" facs="tcp:40196:2"/>
+                  <hi>2.</hi> In that the King hath freely engaged himself by promise in his Declaration from <hi>Breda,</hi> that no man shall be disquieted nor called in question, for differences of opinions, in matters of Religion, &amp;c. And in that he hath since he came to <hi>England,</hi> doubled the confirmation thereof, in repeating the self same words twice over, in his Declaration <hi>Of Eccle<g ref="char:EOLhyphen"/>siastical Affairs,</hi> bearing date the 25th. of the 8th. moneth called <hi>Octo<g ref="char:EOLhyphen"/>ber, 60.</hi> Page <hi>5.</hi> and Page <hi>18.</hi> And since all this he haveing again re<g ref="char:EOLhyphen"/>newed the same in a late speech of his to the Parliament, bearing date the 8th. day of the 5th. month called <hi>July 61.</hi> saying it is to put my self in mind as well as you; that I so often (I think as often as I come to you) mention to you my Declaration from <hi>Breda,</hi> And he further saith, <hi>My Lords and Gentlemen, let it be in no mans power to charge either me or you, with breach of Our word or promise, which can never be a good ingredient to our future security,</hi> Pag. <hi>5. 6.</hi>
+               </p>
+               <p n="3">
+                  <hi>3.</hi> In that he hath confirmed the same to us in perticular, in a late Proclamation Tituled, <hi>For the inlargement of Prisoners called Qua<g ref="char:EOLhyphen"/>kers,</hi> bearing date the 11th. of the 3d. moneth called <hi>May, 61.</hi> wherein he wrighteth us his Subjects called Quakers, whereby friends were ge<g ref="char:EOLhyphen"/>nerally released out of prison, and that without Fees.</p>
+               <p n="4">
+                  <hi>4.</hi> In that the King hath promised the same by word of mouth, and granted that we should have our Liberty of Conscience, and that we should not suffer therein, engageing himself thereunto, in the word of a King, and in that he hath manifested the same towards us several times.</p>
+            </div>
+            <div n="1" type="queries">
+               <head>The first Queries upon the first Assertions.</head>
+               <p>THese things (above writen) being rightly considered and truly un<g ref="char:EOLhyphen"/>derstood this then would I learn from you or enquire of you (whom the King hath set in chief places of Authority under him) and let the just witness of God in all your hearts answer hereunto.</p>
+               <p n="1">
+                  <hi>1</hi> Query, Whether all or as many of you, whom the King hath placed in Authority to do his will, and act according to his Proclamations, and minister Iustice. <hi>(not cruelty)</hi> according to his Laws, for the punishment of evil, and instead thereof (as towards us) act otherwise and that also in his name, do you not therein dishonour the King?</p>
+               <p n="2">
+                  <hi>2.</hi> Q. Whether this which the King hath promised, declared, and so often stood to confirme (as aforesaid) both in general and towards us in particular, (to wit) <hi>Liberty of Conscience,</hi> be reasonable or unrea<g ref="char:EOLhyphen"/>sonable,
+<pb n="3" facs="tcp:40196:2"/>if you hold it unreasonable, do you not dishonour the King, and his Counsel both? the King in that he did so, and his Counsel in that they advise them no better all that time? But if the thing be reasonable, you sit in place by the King to see it done, it being part of your service to him; Then whether you do not more dishonor the King therein, (and neg<g ref="char:EOLhyphen"/>lect your duty and deny reason) when you act quite contrary, and that in his Name, and so make use of his name, to dishonour his Person.</p>
+               <p n="3">
+                  <hi>3</hi> Qu. Whether all such that are set in Authority under him, who doth not see to the performance of this, which the King hath so much, and so of<g ref="char:EOLhyphen"/>ten engaged himself in, but do cause his word and promise, in that thing to be broken, do not therein much dishonour the King.</p>
+               <p n="4">
+                  <hi>4.</hi> Qu. Whether all them that counsel the King not to keep his pro<g ref="char:EOLhyphen"/>mise in this thing, or subtilly perswade him unto such things, whereby at last his word and promise herein must needs be broken, do not therein en<g ref="char:EOLhyphen"/>deavour to lead him in that unsound path of <hi>Oliver,</hi> and them Rulers who broke word and promise with God and men, and so cause the King to lose part of the love of many of his Subjects, by breaking his word like them.</p>
+               <p n="5">
+                  <hi>5.</hi> Qu. Whether this which the King hath so freely offered, so fully ingaged, so firmely promised, so often renewed, so far confirmed, and so largely published, (it being a thing of so much concernment, for preser<g ref="char:EOLhyphen"/>ving peace in his kingdomes) is not alwaies to be performed, and by the King, and all other Ministers of Iustice, and all Officers whatsoever at all times to be granted, and in all places, and in all Courts, unto all per<g ref="char:EOLhyphen"/>sons truly councerned therein; and whether they all ought not to have a spe<g ref="char:EOLhyphen"/>cial care, that his Subjects be not deprived of the benefit of this thing, which from the King to them is made so strong as aforesaid?</p>
+               <p>If the Kings words were true, (as indeed they were) which be lately spoke in the House as aforesaid, <hi>That the breach of his word, or promise, can never be a good ingredient to his future security.</hi>
+               </p>
+               <p n="6">
+                  <hi>6.</hi> Qu. Then whether ever it can be for his good or security, to cause his word and promise to be broken, and whether those be good Subjects to him therein, who seek to have it done, and what good security can ever come to him thereby, and whether many do not endeavour very much to have his promise broken, and sometimes already do it also, though he hath as it were said it can never be for good; yet do not many endeavour it, especi<g ref="char:EOLhyphen"/>ally to have his word and promise broken which was to us <hi>for the Liber<g ref="char:EOLhyphen"/>ty of Conscience;</hi> and whether all those do seek his good and future secu<g ref="char:EOLhyphen"/>rity therein or not: Lot his words stand either against or for them, in that
+<pb n="4" facs="tcp:40196:3"/>matter And as the King hath said, <hi>That the breach of his word or promise can never be a good Ingredient to his future security.</hi>
+               </p>
+               <p n="7">
+                  <hi>7.</hi> Qu. Then whether the breach of this so often an engaged promise, of so high a concernment, <hi>(for Liberty)</hi> may not cause the people much to question in themselves, or in their minds, whether he may not be drawn aside from the performance of the rest of his promises, pertaining to other matters, and so cause them to be afraid lest he will forget his other promi<g ref="char:EOLhyphen"/>ses also; and so prove unfaithful to his word, like them before, seeing the people hath long and often been deceived with fair speeches and pretences, by many Rulers one after another this long time, who did not perform what they promised to them.</p>
+            </div>
+            <div n="2" type="assertions">
+               <head>The second Assertions.</head>
+               <p>SEeing by late experience the late Wars did first begin, and strife hath still continued, and much disatisfaction doth jet remaine, about, and cheifly concerning, Liberty, or not Liberty of Conscience, and being the peace, or strife, in these the Kings Dominions, doth very much depend thereupon and the Kings welfare, (and his Subjects too) depend much upon the peace and quietness of the people, and seeing that for one that was really for Liberty of Conscience, when the War or difference first be<g ref="char:EOLhyphen"/>gan, there is twenty now, and one of those twenty, or one in the twenty, are stronger in their Zeal, or in their minds for it, then twenty of them were then, and yet the Lord suffered them to prevail, until they proved false to God, and not true one to another, and became breakers of their promises, which they had often made and renewed.</p>
+               <p>Seeing by late experience that the other Army, and the other Powers, never so much began to be divided among themselves, nor were never o<g ref="char:EOLhyphen"/>vercome nor quite overturned until they themselves, who had promised liberty of Conscience, began as it were to make War one with another with men amongst them, about matters pertaining to their Consciences, and so turned men out from among them, and out of the Army, only for wearing their hats, or because in Conscience to God, they could no longer put them off, when it was but only to please the wills of men, of corrupt minds, and un<g ref="char:EOLhyphen"/>til honest sober men were sent for out of their honest Imployments before Rulers, and into Courts, only to Insnare them about their hats, or else a<g ref="char:EOLhyphen"/>bout some Oath, (then against Popety) knowing afore hand they durst not break Christs Command, who saith, swear not at all.</p>
+            </div>
+            <div n="2" type="queries">
+               <pb n="5" facs="tcp:40196:3"/>
+               <head>The second Queries upon the second Assertions.</head>
+               <p n="1">
+                  <hi>1</hi> Q. VVHether it be not good and safe to prevent all farther strife among the people, to grant them all just liberty of Conscience, in matters of Religion, especially seeing it is so much alrea<g ref="char:EOLhyphen"/>dy promised; and whether it be not good to be kept, lest there should be also difference about it now, and that also among your selves, and so to have peace kept which is often in so much danger of being broken.</p>
+               <p n="2">
+                  <hi>2</hi> Qu. Whether it be not good and safe, to take heed of ensnaring, or seeking occasion against men, about matters pertaining to their Conscien<g ref="char:EOLhyphen"/>ces towards God, especially the most innocent, and uprightest of them; and whether it be safe in the sight of God, for these Rulers, now to act as vigorously against such innocent people as they before did, and were over<g ref="char:EOLhyphen"/>turned? and whether it be not dangerous for these now to insnare, persecute, and imprison the innocent, for and in the self same things, as them Rulers did about the hat, not swearing, and not coming to the Steeplehouse, and the like?</p>
+            </div>
+            <div n="3" type="assertions">
+               <head>The third Assertions with the Queries to them annexed.</head>
+               <p n="1">
+                  <hi>1</hi> SEeing there was a people who had not a King to whort the Lord gave a King, and seeing he gave them a King in his anger, <hi>Hosea 13.11.</hi> (and (after) took him away in his wrath or greater anger.)</p>
+               <div n="1" type="query">
+                  <p n="1">
+                     <hi>1.</hi> Q. Whether then these people of our days being without a King, did purchase themselves a King, with Gold, Silver, or mortal strength, or did the Lord give the King unto them, and whether the King did come to them, (to rule over them) in his own power, strength, wisdome, and force of Armed men; or did the Lord give or bring him to the people, (and that beyond, and above, and much more caster then he, or the wifest Polliticians he had, could perceive, expector beleive.)</p>
+               </div>
+               <div n="2" type="query">
+                  <head>2. Query upon the same.</head>
+                  <p>And whether or no the Lord was pleased, or displeased with these peo<g ref="char:EOLhyphen"/>ple before the King came, or rather was given to them of the Lord; and whether the Lord was angry or pleased with the Governours, and Govern<g ref="char:EOLhyphen"/>ment as it then stood, and with the Army, and the Ministry, as they and it then stood, and whether most, if not almost all, or wholly all, the Ru<g ref="char:EOLhyphen"/>lers
+<pb n="6" facs="tcp:40196:4"/>were not then breakers of their promises, and Engagements which they had often made unto the people, and one with another, and might not God be justly Angry with (Promise and) Covenant breakers.</p>
+               </div>
+               <div n="3" type="query">
+                  <head>3. Query upon the same.</head>
+                  <p>And whether the total overturning the whole Government, (as it then stood) and the destruction of the Governours, with shame, scorn, Ignomy, reproach, and loss of honour, dignity, fame, and Renown, together with Riches, goods, faire Buildings, Lands, libertys and Life it self, was not, and will not remaine, a sure Testimony of Gods anger against them in which Anger he gave the people a King, thus to execute his just Iudge<g ref="char:EOLhyphen"/>ments in his anger, and whether those things be Signes of Anger, or not.</p>
+               </div>
+               <div n="4" type="query">
+                  <head>4. Query upon the same.</head>
+                  <p>And whether God was angry, or pleased with the Souldiery, and Army as they then stood seeing that before they could have their pay, they were fain to swear for that manner of Government which they had so long, and so of<g ref="char:EOLhyphen"/>ten protested, and fought against, and may not the sense of Gods anger therein remain to this day upon many of their Consciences,</p>
+               </div>
+               <div n="5" type="query">
+                  <head>5. Query upon the same.</head>
+                  <p>And whether the Lord was then angry, or not angry with the Preists, &amp; leaders of the people, and with the Ministry as it then stood especially with the pretended, &amp; esteemed, most refinedst of them, (whom some in scorn call Quakers) much warned before hand, &amp; much declared against seeing they are all overturned, as from what they then stood in, and were (or at least seemed to be) &amp; seeing that many of them are turned from hundreds a year whereby some are in distress, some in great care how to live, some fain to travel from one Countrey to another, some being ashamed to shew their fa<g ref="char:EOLhyphen"/>ces among people, some fain to turne Hipocrits in denying their own prin<g ref="char:EOLhyphen"/>ciples, some lose their dearest friends, some fain to bow and creep (like Serpents) unto such that before they had in little esteem, or ruled over, some turne against that which themselves were in, and so turne against them<g ref="char:EOLhyphen"/>selves like the wind that turns every way, some write, and preach down, and contradict that which before they themselves were, and so write and preach down themselves, and contradict themselves and one another; And many more things I might Query concerning them, and as to their standing then, and their state now, and leave them or any for them, who do now either own them or disown them, as to their former standing, (when the King was given) to answer for them, or in their behalf, whether such
+<pb n="7" facs="tcp:40196:4"/>hings as these, (and much more,) (which I say is justly come upon them, seeing they rejected warning) be Testimony and Signs of Gods anger, or not.</p>
+               </div>
+               <div n="6" type="query">
+                  <head>6. Query upon the same.</head>
+                  <p>And whether those Rulers now, who under the King and in the Name of the King, have imposed the things aforesaid, (and much more) upon the Preists, Rulers, Souldiers, and people, and have executed those just Iudgements of God upon those Promise breakers, and people that had not a King, and took away the Liberties of many, and that which was moreover even the lives of some did do those things in love and pitty unto them, (as they then stood) or else in anger against them; And if God was not then angry with the people, how came those things to pass, and if he was an<g ref="char:EOLhyphen"/>gry, was not their Promise breaking a great cause of his anger; And if the people now break Promise again is it not just if the Lord be in his wrath with them again, and if the King (though he hath given him to be King) should likewise break his word and promises, may not the Lord justly be sorely displeased therewith, as he was angry with the same things before, and spared not the cheifest of them that did it.</p>
+               </div>
+               <div n="7" type="query">
+                  <head>7 Query upon the same.</head>
+                  <p>ANd if the people generally be as wicked now they have a King, as they were before, (or worse) how then shall the ensuing wrath of God be stopt, or hindred now, any more then his anger was then; and is not Gods power as great now as it was then, and doth not he hate wicked<g ref="char:EOLhyphen"/>ness, and promise breaking as much now, as he did then, or if the King whom the Lord hath given, and these Rulers, Souldiers, Priests and peo<g ref="char:EOLhyphen"/>ple now under him, shall break promises as the other did, and be as cruel, and as hardhearted and as great oppressors as the other Rulers, and as full of envy as the Souldiers, Priests and people were in the time of the other Government, when they had not a King; whether then the Lord will re<g ref="char:EOLhyphen"/>spect persons, or the persons of the Mighty in judgement, and unto all these things here stated in brief, let the just witness of God in all conscien<g ref="char:EOLhyphen"/>ces answer, yea or nay.</p>
+               </div>
+            </div>
+            <div type="assertion">
+               <head>(2)</head>
+               <p>Seeing that mercy and truth preserve the King, <hi>and his Throne is upholden by Mercy,</hi> Prov. <hi>20.28. and so seeing a King may be given in anger to the people, and in wrath may be taken from them, yet truth may preserve the King and mercy may uphold his Throne,</hi> (which thing is worth the Kings observing, and all that truely love him.)</p>
+               <div n="1" type="query">
+                  <pb n="8" facs="tcp:40196:5"/>
+                  <p n="1">
+                     <hi>1 Qu.</hi> Whether now is it best for the King to keep to the truth of his word and promise or not, seeing truth preserveth the King and if truth be a preservation to the King, whether untruth and denying of the truth be not destructive; and now who are the Kings best friends they that would have him keep to the truth, and live in the truth, or them that would lead him from it, to do quite contrary to Christ, (that said, <hi>I am the truth</hi>) who said <hi>That Heaven and Earth shall pass away, but my words shall not pass away,</hi> Luke <hi>21.33.</hi> and is not his Throne established for ever, and should not a Christian King take him for an ensample, <hi>and is it not good for the King to keep the truth and not to sell it,</hi> Prov. <hi>23.23.</hi> Seeing truth preserveth the King, and to know and receive and abide in, <hi>and be led by the spirit of truth, which the world can not receive,</hi> Io. <hi>14.17. and to know that truth which God desireth in the inward parts where wisdome is to be known.</hi> Psal. <hi>51.6. And is not the word the truth,</hi> Io. <hi>17.17.</hi> and is not Christs name called the word of God, <hi>Re. 19.13.</hi> and did not <hi>Moses</hi> say <hi>the word was in the heart,</hi> and is not the word there as <hi>a hammer, and like fire,</hi> Ier. <hi>23.29.</hi> and doth not that word sometimes <hi>pierce and divide in the heart,</hi> and is it not there <hi>quick and powerful, Heb. 4.12.</hi> and is not Christ the power of God, <hi>1. Cor. 1.24.</hi> and did not he say <hi>I am the Light</hi> Io. <hi>8.12. and I am come a light into the World,</hi> Io. <hi>12.46.</hi> and did not he that was sent of God beare Witness of the Light, and say that it was the true Light, (or in<g ref="char:EOLhyphen"/>deed the Light and Truth) <hi>which lighteth every man that cometh in<g ref="char:EOLhyphen"/>to the World, that all men through him might beleive, who was in the world,</hi> Io. <hi>1.6, 7, 8, 9, 10.</hi> and did not he himself say <hi>beleive in the Light, Jo. 12.35.</hi> and is not this he which is the Truth, <hi>whom God hath given for a Light unto the</hi> Gentiles, <hi>Isa. 49.6.</hi> and is not this he <hi>whom the Princes of the World hath not known, 1.</hi> Cor. <hi>2.8. who was from everlasting, when there was no deeps, nor Fountains of wa<g ref="char:EOLhyphen"/>ters, neither yet Mountains nor Hills,</hi> Prov. <hi>8.24.</hi> and is not this he <hi>that is given for a leader, and Commander to the people,</hi> Isa. <hi>45.4. who will break the yoke of the oppressor,</hi> Isa. <hi>9.4. even him that is the light, whom they that walked in darkness hath not seen,</hi> Isa. <hi>9.2. who endeth the strife with burning, being born unto such as know, and preach the Light, shall not his name be called the wonderful Counsellour, the mighty God, the everlasting Father, the Prince of peace, the increase of whose Government, and peace shall have no end, who shall sit upon the Throne, and establish Judgement and Justice
+<pb n="9" facs="tcp:40196:5"/>henceforth even for ever,</hi> Isa. <hi>9.6, 7.</hi> Is not this he at whose name eve<g ref="char:EOLhyphen"/>ry knee shall bow, unto whom the gathering of the people shall be, and are not the Kings to be brought unto his dwelling, <hi>Esa. 60.11.</hi> And shall no the Kings of the earth bring their glory and honour unto his beautiful ha<g ref="char:EOLhyphen"/>bitation, <hi>Rev. 21.24.</hi> and shall he not have a habitation in the hearts of the children of men, in whom God doth come to dwell, and may not this truth (and power of God) preserve the King.</p>
+               </div>
+               <div n="2" type="query">
+                  <p n="2">
+                     <hi>2</hi> Qu. Again, if the Kings Throne be upholden by mercy, (and not by cruelty, nor persecution,) whether then it be not good for the King to shew mercy; and how sadly, even as it were without mercy, or pitty to old or young widows or fatherless, did several thousands lately suffer, by Im<g ref="char:EOLhyphen"/>prisonment and divers wayes, only concerning things, which to them were matters of conscience; and should the King be perswaded moreover to break his promise, and restrain Liberty of Conscience, and so thereby ruinate ma<g ref="char:EOLhyphen"/>ny families, impoverish many that now live well, honest and comfortable, and cause children to starve in the streets, and old people to perish with hardships and abuses, and many more to lose their lives in Prisons as then hath done already, (who can lay down their lives for Christs sake) and that not for any evil in the least done or intended by the said sufferers, but onely truly and purely, in matters of conscience to God, and whether this would not be unmerciful.</p>
+               </div>
+               <div n="3" type="query">
+                  <head>The third Query upon the same.</head>
+                  <p>ANd is it not said in some of that part of the Book of <hi>Common Pray<g ref="char:EOLhyphen"/>er,</hi> which is (in it) appointed to be read once a year, or upon that day called <hi>Ashwednesday, Cursed are the unmerciful,</hi> and should any man be first perswaded to be unmersiful, and so brought lyable to the curse, &amp; then they themselves to curse him (once a year) who cause him to be unmerciful, &amp; it may be much endeavoured, to make he himself say <hi>Amen</hi> to the curse against himself; &amp; so curse one another, &amp; is it not dangerous for any man to come under the curse, &amp; to be unmerciful, least God shut up his mercy from him. Therefore whether mercy and pitty doth not become the King, that therewith his Throne might be upholden, and whether all the wise men he hath with all his Bishops and his armed men, with all strength and wis<g ref="char:EOLhyphen"/>dome else whatsoever be able to uphold his Throne without Gods mercy, and if he would alwaies receive mercy from God to have his Throne al<g ref="char:EOLhyphen"/>wayes upheld thereby, whether it be not meet, if not needful for him al<g ref="char:EOLhyphen"/>waies to shew mercy, and to let all people but especially Gods servants, have mercy from him or at least so much right, as the Lord himself hath give them, which is to worship him in spirit, and serve him in that, which
+<pb n="10" facs="tcp:40196:6"/>purgeth the conscience from dead works, that they may serve the living God, <hi>Heb. 9.14.</hi> and seeing the King hath promised as aforesaid, that such shall not be disquieted therein, and whether these lines are not written for his good, and in love unto the King.</p>
+               </div>
+            </div>
+            <div type="assertion">
+               <head>(3)</head>
+               <p>
+                  <hi>And seeing the same that said,</hi> I am the Truth, (who was in the be<g ref="char:EOLhyphen"/>ginning with God, <hi>Pro. 8.30</hi>) <hi>said</hi> Likewise by me Princes decree Iustice, <hi>Prov. 8.15.</hi>
+               </p>
+               <div type="query">
+                  <p>
+                     <hi>Qu.</hi> Then whether he be not the power of God, who said so, and if so that he be the power of God and that thereby Princes decree Iustice, (or that which is just) then what power is that by which Princes decree un<g ref="char:EOLhyphen"/>justice, and whether it be not injustice for the King (to be perswaded) to break his word and promise, and which power are those men in that would have him do so, seeing Christ is the power of God, by whom Iustice is de<g ref="char:EOLhyphen"/>creed; and is it not just for the King to be as good as his word, and may not all such as would have him break his promise, remember, <hi>That lying lips becometh not a Prince</hi> Prov. <hi>17.7.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="assertion">
+               <head>Moreover according to reason.</head>
+               <p>Whether many of them that do so much endeavour to have the King act contrary to his word or make void his promise, by restraining sober ho<g ref="char:EOLhyphen"/>nest persons, from the Liberty of their consciences in spiritual matters, and duties of prayer to the God of Heaven, and waiteing upon the Lord in his true service, and fear of his holy Name; whether such as these would be contented themselves to be restrained from the wicked liberty of their fleshly lusts, (though that was never so openly promised them) and so to be kept from all whoredome, drunkenness, and swearing; and such other works of darkness, wherewith they serve the Devil: and can such be willing that all boyes, and all sorts of people as often as they see a whoremonger, or a drunkard, then all cry out presently a whoremonger a whoremonger, or a drunkard a drunkard, as they are, that such should cry after us, a Qua<g ref="char:EOLhyphen"/>ker a Quaker: and whether such be willing to suffer as much for their pro<g ref="char:EOLhyphen"/>fane swearing as they would us, (and as we have done) for not swearing at all, and whether such can be content to suffer as great punishment, for going to an Alehouse (needlesly) on the first dayes (or any day) as they would have us suffer for not going to the steeplehouse the first dayes, (which to us is needless) and whether they would have such lawes made against them, for such things, and such their practises as they would have made against us, for our practises, in liberty of Conscience, as pertaining to the service and worship of God, and if liberty had been so much promised
+<pb n="11" facs="tcp:40196:6"/>them, in this their wickedness, as bath been to us in the matter of consci<g ref="char:EOLhyphen"/>ence, would they have had that promise broken, and whether they would be haled out of their Alehouses, tipling houses and whorehouses, as oft as they meet there, or could be found there by any Officer, Souldiers, boyes or people, as they would have other sober persons haled out of their own houses and peaceable, private and publick Meeting houses, wherein they meet to serve God; and would they receive every such time the like usage or abu<g ref="char:EOLhyphen"/>ses by any boyes or persons that should find them there, or take them in such things, and that would stone them for their whoredome and drunkenness at the present; or would they receive the like punishment afterwards, when they were brought before a Magistrate in imprisonment or otherwise: If not, then whether all such men as these (who would have the King break his word) be not absolutely of the Devil, and would they not limit the spi<g ref="char:EOLhyphen"/>rit of God, and his worship, and servants, and tollerate the spirit of the Devil, and have liberty for his service and his children therein; and then whether it be good or safe at all for the King to hearken unto the Counsel of such men, or in the lest to incline thereunto in this matter; and whether the Lord God will ever bless their counsels herein (which leads to destru<g ref="char:EOLhyphen"/>ction); and whether the King, be in the lest to receive or consent to the conunsel of such men herein or their Petitions in that matter, and so be<g ref="char:EOLhyphen"/>come a breaker of his word and promise. This will I leave to Gods witness in themselves, and in the King, Counsel, Parliament, and all other Ma<g ref="char:EOLhyphen"/>gistrates, and other inferiour Officers and people whatsoever to answer yea, or nay.</p>
+               <p>And further I might enquire, in like manner, concerning the matter and manner or form and place of worship, whether they would be deprived of theirs, as they would have us of ours, and be haled out as they have ha<g ref="char:EOLhyphen"/>led us and suffer so much therein as they have caused us, and have laws mads against them for it, as they have made against us, and have auo<g ref="char:EOLhyphen"/>ther manner of worship, and place and teachers imposed upon them, then what they are perswaded of to be right; and how do such come to be more certaine, that their way of worship is right in things they have no Scrip<g ref="char:EOLhyphen"/>ture, nor example therein for; then we do come to be certain that our way is right, which we have Scripture and example therein for; and how came they to know that their worship is better in a Temple made with hands in which God dwelleth not, and the Apostle declared against, <hi>Acts 7.44.</hi> then ours is in <hi>the Spirit,</hi> (of which God is, <hi>Jo. 4.24.</hi>) <hi>and in the Truth,</hi> which is his Son, <hi>in whom the fulness of God doth dwel,</hi> Coll, <hi>2.9. and in the light</hi> where God doth dwell, for Christ said, <hi>I am
+<pb n="12" facs="tcp:40196:7"/>the Light</hi> Io. <hi>8.12. And he that hath immortallity dwelleth in the light 1</hi> Tim. <hi>6.16.</hi> And whether such as are compelled to a worship, which they are perswaded is not right, and that God doth not accept, are not there<g ref="char:EOLhyphen"/>in made Hypocrites; and if they would compel us from such a worship that we are perswaded is right, and also compel us to such a worship, that we are perswaded is not right, whether they themselves would be done so by? and if not, how do they love their neighbour as themselves and do unto all men as they would be done unto, according to the command of Christ <hi>Mat. 7.12.</hi> and wherein are such like unto a Christian spirit, which the true Christians were in, and them that by the Holy Ghost were made Overseers of the flock of God, who said that it seemed good unto them, and to the Holy Ghost, to lay no greater burthen upon the Gentiles, then to abstain from meats offered to Idols and blood, and things strangled, and fornication which were necessary things <hi>Acts 15.28.</hi>
+               </p>
+               <p>
+                  <hi>These things in breif at present, are offered in plainess and love un<g ref="char:EOLhyphen"/>to the consideration of all Bulers, and people, by one that truely desir<g ref="char:EOLhyphen"/>eth peace amongst men, being an innocent sufferer, for the cause of God, in the place of my late long, and sad sufferings, in a close unsa<g ref="char:EOLhyphen"/>vory Prison at</hi> Winchester <hi>the</hi> 28th. <hi>of the</hi> 9th. <hi>Month called now 1661. being known amongst men by the name,</hi>
+               </p>
+               <closer>
+                  <signed>Humphery Smith.</signed>
+               </closer>
+               <epigraph>
+                  <q>
+                     <p>Thou shalt not wrest Iudgement, thou shalt not respect persons, neither take a gift, for a gift doth blind the eyes of the Wise, and pervert the words of the Righteous: That which is altogether just shalt thou follow, that thou mayest Live, and Inherit the Land, which the Lord thy God giveth thee</p>
+                     <bibl>
+                        <hi>Deut. 16.19.20.</hi>
+                     </bibl>
+                  </q>
+                  <q>
+                     <p>The people that are gone out of the way, it were them that knew not the way of peace,</p>
+                     <bibl>
+                        <hi>Rom. 3.12. ver. 17.</hi>
+                     </bibl>
+                  </q>
+                  <q>
+                     <p>But Christ who is our way and unto us the Prince of Peace, htah taught us to give the Back to the Smiter, and to turn the other Cheek.</p>
+                  </q>
+               </epigraph>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for W. M. 1662.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:40196:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
